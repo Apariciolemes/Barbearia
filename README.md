@@ -1,4 +1,14 @@
-# barber
+# BarberDev
+
+- VueJS
+- Axios
+- Vuex
+- PrimeVue
+- FontAwesome
+- API Rest
+- VueRouter
+- Javascript
+
 
 ## Project setup
 ```
